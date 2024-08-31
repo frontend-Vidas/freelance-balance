@@ -1,13 +1,14 @@
 {
   "name": "freelance-balance",
   "version": "1.0.0",
-  "description": "",
+  "description": "Pasidaryti metų balanso lentelę su duomenimis",
   "main": "index.js",
   "scripts": {
+    "dev": "dead-server --host=localhost --port=1114",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "tropikalis",
+  "author": "Vidas (https://github.com/frontend-Vidas)",
   "license": "MIT",
   "devDependencies": {
     "dead-server": "^1.0.9"
